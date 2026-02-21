@@ -1,80 +1,101 @@
 {
   "enable_development_mode": false,
-  "company_name": "Tyska Alexander Orthodontics",
-  "domain": "taortho.com",
-  "email": "info@mandtortho.com",
+  "company_name": "Smiles by Dr Craig Hadgis Orthodontist",
+  "domain": "www.drcraigortho.com",
+  "email": "info@drcraigortho.com",
   "phone": {
-    "number": "(716) 759-8323",
-    "href": "tel:+17167598323",
-    "aria": "7 1 6, 7 5 9, 8 3 2 3"
+    "number": "904.79.SMILE (904-797-6453)",
+    "href": "tel:+19047976453",
+    "aria": "9 0 4, 7 9 7, 6 4 5 3"
   },
   "location": [
     {
-      "title": "Clarence Office",
+      "title": "St. Augustine Office",
       "address": {
-        "street": "9650 Main Street",
+        "street": "22 St Johns Medical Park Dr",
         "suite": "",
-        "city_state": "Clarence, NY 14031",
+        "city_state": "St. Augustine, FL 32086",
         "coordinates": {
-          "longitude": "-78.6314355",
-          "latitude": "42.9736638"
+          "longitude": "-81.3233018",
+          "latitude": "29.8379338"
         }
       },
       "phone": {
-        "number": "(716) 759-8323",
-        "href": "tel:+17167598323"
+        "number": "904.79.SMILE (904-797-6453)",
+        "href": "tel:+19047976453"
       },
-      "email": "info@mandtortho.com",
+      "email": "info@drcraigortho.com",
       "hours": [
         {
           "day": "Monday",
-          "time": "8:30 am \t6:30 pm"
+          "time": "8:00am - 5:00pm"
         },
         {
           "day": "Tuesday",
-          "time": "8:30 am \t6:30 pm"
+          "time": "8:00am - 5:00pm"
         },
         {
           "day": "Wednesday",
-          "time": "8:00 am \t11:30 am"
+          "time": "8:00am - 5:00pm"
         },
         {
           "day": "Thursday",
-          "time": "8:00 am \t6:00 pm"
+          "time": "8:00am - 5:00pm"
         },
         {
           "day": "Friday",
-          "time": "8:00 am \t11:30 am"
+          "time": "8:00am - 5:00pm"
         }
       ],
       "directions_link": {
-        "href": "https://www.google.com/maps/search/?api=1&query=9650+Main+St+Clarence+NY+14031",
+        "href": "https://www.google.com/maps/search/?api=1&query=22+St+Johns+Medical+Park+Dr+St.+Augustine+FL+32086",
         "label": "Get Directions"
       },
-      "special_note": ""
+      "special_note": "Complimentary growth-and-development exams. 3D imaging, iTero scans, Invisalign and custom digital braces available."
     },
     {
-      "title": "Tonawanda Office",
+      "title": "St. Johns Office",
       "address": {
-        "street": "1077 Delaware Rd",
-        "suite": "",
-        "city_state": "Tonawanda, NY 14223",
+        "street": "111 Doctors Village Dr STE 400",
+        "suite": "STE 400",
+        "city_state": "St. Johns, FL 32259",
         "coordinates": {
-          "longitude": "-78.8730228",
-          "latitude": "42.9901241"
+          "longitude": "",
+          "latitude": ""
         }
       },
       "phone": {
-        "number": "(716) 875-0405",
-        "href": "tel:+17168750405"
+        "number": "904.79.SMILE (904-797-6453)",
+        "href": "tel:+19047976453"
       },
-      "email": "info@mandtortho.com",
-      "hours": [],
+      "email": "info@drcraigortho.com",
+      "hours": [
+        {
+          "day": "Monday",
+          "time": "8:00am - 5:00pm"
+        },
+        {
+          "day": "Tuesday",
+          "time": "8:00am - 5:00pm"
+        },
+        {
+          "day": "Wednesday",
+          "time": "8:00am - 5:00pm"
+        },
+        {
+          "day": "Thursday",
+          "time": "8:00am - 5:00pm"
+        },
+        {
+          "day": "Friday",
+          "time": "8:00am - 5:00pm"
+        }
+      ],
       "directions_link": {
-        "href": "https://www.google.com/maps/search/?api=1&query=1077+Delaware+Rd+Tonawanda+NY+14223",
+        "href": "https://www.google.com/maps/search/?api=1&query=111+Doctors+Village+Dr+Ste+400+St+Johns+FL+32259",
         "label": "Get Directions"
       },
-      "special_note": ""
+      "special_note": "Text selfies for a free Online Smile Assessment to (904) 797-6453. Same-day and flexible scheduling available."
     }
   ],
   "typography": [
@@ -92,30 +113,15 @@
     "type": "links",
     "theme": "dark",
     "content_alignment": "right",
-    "links": [
-      {
-        "icon": "tooth-two-v1",
-        "text": "9650 Main Street, Clarence, NY 14031",
-        "href": "https://www.google.com/maps/search/?api=1&query=9650+Main+St+Clarence+NY+14031",
-        "label": "View 9650 Main Street, Clarence, NY 14031 on google maps",
-        "new_window": true
-      },
-      {
-        "icon": "phone",
-        "text": "(716) 759-8323",
-        "href": "tel:+17167598323",
-        "label": "Call 7 1 6. 7 5 9. 8 3 2 3.",
-        "new_window": false
-      }
-    ],
+    "links": [],
     "announcement": {
       "icon": "tooth-two-v2",
-      "label": "",
-      "text": "",
-      "mobile_text": "",
+      "label": "Practice Announcement",
+      "text": "We offer complimentary growth-and-development exams and online smile assessments — text selfies to (904) 797-6453.",
+      "mobile_text": "Free Smile Check — text (904) 797-6453",
       "modal": {
-        "title": "",
-        "text": ""
+        "title": "Welcome to Smiles by Dr. Craig Hadgis",
+        "text": "We combine compassionate, family-focused care with advanced digital technology including 3D imaging, iTero scans, and customized appliance systems to deliver predictable, efficient results."
       }
     }
   },
@@ -150,7 +156,15 @@
   "footer": {
     "social_media": [
       {
-        "href": "https://www.youtube.com/channel/UC1pgQhnbNQ7Mf0xFm_2KF-g",
+        "href": "https://www.facebook.com/SmilesByCraigHadgisOrthodontist/",
+        "icon": "facebook"
+      },
+      {
+        "href": "https://www.instagram.com/drcraighadgisorthodontist/",
+        "icon": "instagram"
+      },
+      {
+        "href": "https://www.youtube.com/watch?v=ZDhDyQfVMnM",
         "icon": "youtube"
       }
     ],
@@ -158,12 +172,12 @@
   },
   "enable_popup": false,
   "popup": {
-    "title": "",
-    "text": "",
+    "title": "Welcome to Smiles by Dr. Craig Hadgis",
+    "text": "Personalized, family-friendly orthodontics using modern digital technology — complimentary initial exams available.",
     "image": {
-      "src": "",
+      "src": "https://www.drcraigortho.com/assets/images/logo-2024.png",
       "webp": "",
-      "alt": "",
+      "alt": "Smiles by Dr. Craig Hadgis logo",
       "aria_hidden": false,
       "bgColor": "",
       "imageBackground": false,
@@ -171,7 +185,9 @@
       "objectPosition": "",
       "forceAlt": "",
       "loading_mask": "",
-      "image_selection_hints": null
+      "image_selection_hints": {
+        "context_category": "New Patients Hero"
+      }
     }
   }
 }
